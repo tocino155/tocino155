@@ -1,5 +1,5 @@
 <div align="center">
-  <img  style="border-radius: 100%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img  width="30%" style="border-radius: 100%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 <div id="header" style="text-align: center;">
   <h1 align="center" >Hola bienvenido a mi perfil de GitHub.</h1>
