@@ -7,7 +7,7 @@
 
 <div id="badges" style="text-align: justify;">
   <h4>
-    Actualmente soy desarrollador web y tengo conocimientos de los lenguajes como JavaScript, PHP, *HTML, *CSS, MySQL. El patrón de diseño de software que uso es MVC mediante el framework Laravel para el back-end y para el front-end uso el framework Bootstrap.<br><br>
+    Actualmente soy desarrollador web y tengo conocimientos de los lenguajes como JavaScript, AJAX, jQuery, PHP, *HTML, *CSS, MySQL. El patrón de diseño de software que uso es MVC mediante el framework Laravel para el back-end y para el front-end uso el framework Bootstrap.<br><br>
     Si bien estoy orientado al desarrollo web porque en las empresas donde he estado han requerido de sistemas web también tengo conocimientos en lenguajes como C/C++ y Java, estoy abierto a aprender mas lenguajes y desarrollar en diferentes áreas.
   </h4>
 </div>
