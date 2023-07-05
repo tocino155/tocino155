@@ -25,7 +25,7 @@
   <img width="3.5%" style="margin-top: 5px;" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
   <label style="font-size: 25px; font-weight: bold;">50%</label><br>
   <img width="3.5%" style="margin-top: 5px;" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
-  <label style="font-size: 25px; font-weight: bold;">50%</label><br>
+  <label style="font-size: 25px; font-weight: bold;">30%</label><br>
   <img width="3.5%" style="margin-top: 5px;" height="auto" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
-  <label style="font-size: 25px; font-weight: bold;">50%</label><br>
+  <label style="font-size: 25px; font-weight: bold;">30%</label><br>
 </div>
