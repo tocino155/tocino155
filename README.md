@@ -15,17 +15,17 @@
 <div>
   <h3>NIVEL DE LOS LENGUAJES</h3>
   <img width="4%" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png">
-  <label style="font-size: 25px; font-weight: bold;">75%</label><br>
+  
   <img width="3.5%" style="margin-top: 5px;" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCFmj9qg68AFAx8H7Xo5x20h4Ozi3ug1gXUdKqKnSBUfMdXuOKxMCpV4nsVecAwPNjwPs&usqp=CAU">
-  <label style="font-size: 25px; font-weight: bold;">65%</label><br>
+  
   <img width="4%" style="margin-top: 5px;" height="auto" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png">
-  <label style="font-size: 25px; font-weight: bold;">80%</label><br>
+  
   <img width="4%" style="margin-top: 5px;" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU">
-  <label style="font-size: 25px; font-weight: bold;">80%</label><br>
+ 
   <img width="3.5%" style="margin-top: 5px;" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
-  <label style="font-size: 25px; font-weight: bold;">50%</label><br>
+ 
   <img width="3.5%" style="margin-top: 5px;" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
-  <label style="font-size: 25px; font-weight: bold;">30%</label><br>
+  
   <img width="3.5%" style="margin-top: 5px;" height="auto" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
-  <label style="font-size: 25px; font-weight: bold;">30%</label><br>
+  
 </div>
